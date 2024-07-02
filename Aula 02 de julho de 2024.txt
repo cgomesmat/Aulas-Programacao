@@ -3,3 +3,4 @@ Pilhas
 Programa gráfico: gimp
 algoritmo de preenchimento floodfill/seedfill
 
+https://www.ime.usp.br/~pf/algoritmos/aulas/fila.html
